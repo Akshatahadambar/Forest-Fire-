@@ -1,7 +1,4 @@
-PROJECT NAME -: Forest Fire Analysis.
-Table of Content-:
-
-*Demo Overview
+PROJECT NAME -: Forest Fire Data Analysis.
 
 *Reason to Choose these Project: 
 To find out the state in which fire is in large number
@@ -12,7 +9,8 @@ to predict the fires in upcoming year.
 *Pandas Methods which are used in these project
 I used groupby where i need the reference of some other column.
 I have used unique method to neglect the copies
-I used countplot where the data is more and to visualize it properly.
+I used catplot where the data is more and to visualize it properly.
+I have used polynomial equation to analyze data and predict upcoming data.
 
 *Graph which are used : 
 Piechart
@@ -28,23 +26,18 @@ analysis on which month catches fire mostly.
 Polynomial equation to predict the upcoming year fire analysis
 
 *Conclusion
-# 1. February, March, April and May see the lowest number of forest fires
-# 2. A sudden spike in June continuing the trend till November
-# 3. July, August, October and November are the 4 months where maximum forest fires happen
+# February, March, April and May see the lowest number of forest fires
+# July, August, October and November are the 4 months where maximum forest fires happen
 
-# 1. Mato Grosso see a huge number of forest fires
-# 2. Sergipe, Distrito Federal, Alagoas and Espirito Santo see the lowest number of forest fires
+# Mato Grosso see a huge number of forest fires
+# Sergipe, Distrito Federal, Alagoas and Espirito Santo see the lowest number of forest fires
 
 # Fires increased dramatically in the last 20 years, from 20,000 in 1998 to almost double in 2017. 
 # What's also alarming is that there is also an increasing trend in the data, 
 # so we can expect even more wildfires in the years to follow.
 # 2003 and 2016 had the most wildfires throughout Brazil.
 
-predicted year with polynomial equation
-2018 - 40714
-2019 - 41224
-2020 - 41721
-2021 - 42205
-2022 - 42676
-2023 - 43134
-2024 - 43579
+From 1998 to 2017, Mato Grosso has contained huge number of forest fires.
+Overall, until 2017, the amount of forest fires since 1998 has trended up over the years, though it was never as bad as 2004.
+Based on the most recent frequential and proportional trends in individual states, efforts should be put forward most in the states of Mato Grosso, Paraiba, Rio, Ceara, and Rondomia.
+Overall, the months of July through November deserve the most attention in preventing forest fires.
