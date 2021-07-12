@@ -25,19 +25,17 @@ Worst fire hit in top 5 states
 analysis on which month catches fire mostly.
 Polynomial equation to predict the upcoming year fire analysis
 
-*Conclusion
-# February, March, April and May see the lowest number of forest fires
-# July, August, October and November are the 4 months where maximum forest fires happen
+#Conclusion
+1. February, March, April and May see the lowest number of forest fires
+July, August, October and November are the 4 months where maximum forest fires happen
 
-# Mato Grosso see a huge number of forest fires
-# Sergipe, Distrito Federal, Alagoas and Espirito Santo see the lowest number of forest fires
+2. Mato Grosso see a huge number of forest fires
+Sergipe, Distrito Federal, Alagoas and Espirito Santo see the lowest number of forest fires
 
-# Fires increased dramatically in the last 20 years, from 20,000 in 1998 to almost double in 2017. 
-# What's also alarming is that there is also an increasing trend in the data, 
-# so we can expect even more wildfires in the years to follow.
-# 2003 and 2016 had the most wildfires throughout Brazil.
+3. Fires increased dramatically in the last 20 years, from 20,000 in 1998 to almost double in 2017. What's also alarming is that there is also an increasing trend in the data, so we can expect even more wildfires in the years to follow.
+2003 and 2016 had the most wildfires throughout Brazil.
 
-From 1998 to 2017, Mato Grosso has contained huge number of forest fires.
+4. From 1998 to 2017, Mato Grosso has contained huge number of forest fires.
 Overall, until 2017, the amount of forest fires since 1998 has trended up over the years, though it was never as bad as 2004.
 Based on the most recent frequential and proportional trends in individual states, efforts should be put forward most in the states of Mato Grosso, Paraiba, Rio, Ceara, and Rondomia.
 Overall, the months of July through November deserve the most attention in preventing forest fires.
