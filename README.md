@@ -40,6 +40,7 @@ Overall, until 2017, the amount of forest fires since 1998 has trended up over t
 Based on the most recent frequential and proportional trends in individual states, efforts should be put forward most in the states of Mato Grosso, Paraiba, Rio, Ceara, and Rondomia.
 Overall, the months of July through November deserve the most attention in preventing forest fires.
 
-#Result
+#Result :-
+
 After Analysis we can see that the forest fire is mostly occured in the second half of year, ie; July to November
 So to avoid the Fire in Upcoming year, we can ask the forest authorities to have more attention in second half year and plan accordingly about the prevention before hand to avoid Fire in that second half year duration.
